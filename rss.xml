@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[jcouch]]></title>
-        <description><![CDATA[jcouch]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[jeff couch - developer]]></title>
+        <description><![CDATA[jeff couch - developer]]></description>
+        <link>https://thegrid.ai/jcouch/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 11 Mar 2016 14:21:07 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 25 Mar 2016 13:22:19 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jcouch/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/777c48d3-8b1e-4e03-81cf-8f3ee8128a93.png">]]></description>
-            <link>undefinedhttpmachinelearningmasterycomtechniques-to-understand-m/index.html</link>
+            <title><![CDATA[Machine Learning]]></title>
+            <description><![CDATA[<article><h1>Machine Learning</h1><p>As a developer and data analyst the prospect of applied machine learning to derive value from the data we process is inspiring.  I find learning and understanding applied machine learning techniques fascinating.  The folks at machinelearningmastery.com have great content to get started.  Check them out:</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2918394e7a65ef6a7855c6c9446e2ec07b8b80ac.png"></article>]]></description>
+            <link>https://thegrid.ai/jcouch/httpmachinelearningmasterycomtechniques-to-understand-m/index.html</link>
             <guid isPermaLink="false">aeb97013-4cf5-40e5-943f-8c15401efcd4</guid>
-            <pubDate>Fri, 11 Mar 2016 14:20:54 GMT</pubDate>
+            <pubDate>Fri, 25 Mar 2016 13:22:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
